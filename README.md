@@ -1,1 +1,1 @@
-main repo for shell basics
+all scripts
